@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Initializing a repository creates the repository.  There is not one until this is done.
+	
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	Staging area temporarily holds files so each commit can be planned thoughtfully.
+	This allows for more meaningful commits.
