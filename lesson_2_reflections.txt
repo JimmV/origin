@@ -7,3 +7,16 @@ What value do you think it offers?
 
 	Staging area temporarily holds files so each commit can be planned thoughtfully.
 	This allows for more meaningful commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By comparing the working directory with the staging area and the staging area with the 
+	repository prior to committing.
+	
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+	When trying out a change that might not make it into the final version, or when two
+	versions might be a possibility.
+	Branches would allow each version to progress on their own without interfering with
+	the progress of the other branch.
