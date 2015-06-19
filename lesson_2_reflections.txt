@@ -25,9 +25,14 @@ How do the diagrams help you visualize the branch structure?
 
 	They make it clear which commits can "see" others by looking "upstream" or "downstream".
 
-	What is the result of merging two branches together? Why do we represent it in the 
-	diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
 	
-merging two branches creates one branch that encompasses all the changes made by both
-branches.  In the diagram it is clear that both branches, as well as all of their commits
-are accessible  through the new commit.
+	merging two branches creates one branch that encompasses all the changes made by both
+	branches.  In the diagram it is clear that both branches, as well as all of their 
+	commits	are accessible through the new commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git can usually merge two commits automatically which can save time, however, when
+	conflicts arise between two merging files, intervention may be necessary.
