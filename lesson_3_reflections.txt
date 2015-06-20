@@ -7,3 +7,27 @@ stay up-to-date with your remote repository?
 
 	Sometimes changes may not be complete and therefore un-compilable or illogical.
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are copies /w links to original only on github
+	Clones are working similars to repositories.
+	Branches are alternate paths within one project.
+	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	This is convenient when internet access may not be available but access to changes made
+	on GitHub are desired.  Also, when merging with changes made on GitHub, logs can be
+	evaluated to plan the process.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+	You could email files back and forth.  This would probably be cumbersome.
+	It may be easier to work together in the same room, however this is not always feasible.
+	
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+Changes made on a separate branch can be evaluated before incorporating them into master.
+This is a lot more work than just making changes to master.
+	
